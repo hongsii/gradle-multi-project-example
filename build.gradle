@@ -32,12 +32,6 @@ subprojects {
 
 }
 
-project(':gradle-multi-project-api') {
-    dependencies {
-        compile project(':gradle-multi-project-core')
-    }
-}
-
 project(':gradle-multi-project-web') {
     dependencies {
         compile project(':gradle-multi-project-core')

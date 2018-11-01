@@ -1,4 +1,4 @@
-package com.hongsii.account;
+package com.hongsii.controller;
 
 import com.hongsii.domain.Account;
 import com.hongsii.service.AccountService;
